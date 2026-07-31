@@ -4,7 +4,7 @@
 > A proof-of-concept AI system for natural language search across multiple egocentric (first-person) videos using OpenCLIP and FAISS.
 
 ---
-![Uploading EgoGen - Egocentric Visual Memory Retrieval System.png…]()
+<img width="3840" height="2160" alt="EgoGen - Egocentric Visual Memory Retrieval System" src="https://github.com/user-attachments/assets/4d974889-a9b5-4f8e-94ef-75993aa44d06" />
 
 ---
 ## Overview
