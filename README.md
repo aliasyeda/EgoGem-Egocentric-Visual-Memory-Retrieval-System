@@ -1,10 +1,12 @@
-# EgoMem-Egocentric-Visual-Memory-Retrieval-System
+# EgoMem : Egocentric-Visual-Memory-Retrieval-System
 
 
 > A proof-of-concept AI system for natural language search across multiple egocentric (first-person) videos using OpenCLIP and FAISS.
 
 ---
+![Uploading EgoGen - Egocentric Visual Memory Retrieval System.png…]()
 
+---
 ## Overview
 
 The Egocentric Visual Memory Retrieval System enables semantic search over multiple first-person videos. Instead of manually watching long videos, users can enter a natural language query such as:
