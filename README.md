@@ -181,6 +181,6 @@ This project demonstrates an end-to-end visual retrieval pipeline capable of ind
 
 ## Author
 
-**Designed, Developed, and Documented by**
+** Developed by**
 
 **Syeda Alia Samia**
