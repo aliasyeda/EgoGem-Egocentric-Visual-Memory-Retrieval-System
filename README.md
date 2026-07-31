@@ -1,4 +1,4 @@
-# EgoMem : Egocentric-Visual-Memory-Retrieval-System
+# EgoGem : Egocentric-Visual-Memory-Retrieval-System
 
 
 > A proof-of-concept AI system for natural language search across multiple egocentric (first-person) videos using OpenCLIP and FAISS.
